@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ersermul.github.io/sitemap
+Sitemap: https://ersermul.github.io/app/sitemap
+Sitemap: https://ersermul.github.io/assets/sitemap
+Sitemap: https://ersermul.github.io/css/sitemap
+Sitemap: https://ersermul.github.io/includes/sitemap
+Sitemap: https://ersermul.github.io/item/sitemap
+Sitemap: https://ersermul.github.io/src/sitemap
